@@ -1,0 +1,4 @@
+Calcolo logaritmo in base n di x:
+
+
+log base n di x = logNaturale(x) / logNaturale(n)
